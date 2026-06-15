@@ -1,0 +1,6 @@
+{
+  "name": "TrustGig",
+  "description": "A secure Bangla-focused freelance marketplace app with verified seller profiles, project bidding, gig purchases, and local/crypto payment gateways (bKash, Nagad, Rocket, USDT, Binance) alongside dark-mode and notification center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
